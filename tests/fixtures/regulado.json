@@ -1,0 +1,22 @@
+{
+  "documentos": [
+    {
+      "fonte_ref": "E1-DOC-001", "tipo": "pdf", "setor": "regulado",
+      "estudo_ref": "E1", "blinding": "unblinded", "sponsor_ref": "SPON-A",
+      "grants": [{"principal_tipo": "grupo", "principal_ref": "funcao:bioestatistica", "nivel": "read"}],
+      "conteudo": "Randomização unblinded do estudo E1."
+    },
+    {
+      "fonte_ref": "E1-DOC-002", "tipo": "docx", "setor": "regulado",
+      "estudo_ref": "E1", "blinding": "blinded", "sponsor_ref": "SPON-A",
+      "grants": [{"principal_tipo": "grupo", "principal_ref": "funcao:clinica", "nivel": "read"}],
+      "conteudo": "Protocolo blinded do estudo E1."
+    },
+    {
+      "fonte_ref": "E2-DOC-001", "tipo": "pdf", "setor": "regulado",
+      "estudo_ref": "E2", "blinding": "blinded", "sponsor_ref": "SPON-B",
+      "grants": [{"principal_tipo": "grupo", "principal_ref": "funcao:clinica", "nivel": "read"}],
+      "conteudo": "Documento de outro sponsor — não deve cruzar."
+    }
+  ]
+}
